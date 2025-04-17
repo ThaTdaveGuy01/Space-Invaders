@@ -1,0 +1,3 @@
+HighScoreNumber1: 0
+HighScoreNumber2: 0
+HighScoreNumber3: 0
